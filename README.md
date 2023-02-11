@@ -1,7 +1,7 @@
 ##  👋🏼 Salve sou Leonardo Teles! 👋🏼
 
-- 🌱 Sou atualmente estudante de  desenvolvimento de sistemas pelo Senai
-- 🤝🏼 A procura de um primeiro emprego como desenvolvedor
+- 📚 Sou um estudando de Análise em desenvolvimeto de sitemas;
+- 🤝🏼 Estou a procura do meu primeiro emprego como desenvolverdor;
 
 ##  Dados 📊
 <div>
