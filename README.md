@@ -7,6 +7,7 @@
  ## Contate-me em:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardotelesdev/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leoteles611@gmail.com)
 
 ##  Dados 📊
 <div>
