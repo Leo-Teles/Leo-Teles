@@ -1,7 +1,12 @@
-##  👋🏼 Salve sou Leonardo Teles! 👋🏼
+##  💻👋🏼 Salve sou Leonardo Teles! 👋🏼💻
+
 
 - 📚 Sou um estudando de Análise em desenvolvimeto de sitemas;
 - 🤝🏼 Estou a procura do meu primeiro emprego como desenvolverdor;
+
+ ## Contate-me em:
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardotelesdev/)
 
 ##  Dados 📊
 <div>
